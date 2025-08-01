@@ -1,0 +1,11 @@
+name,asset_tag,category,description,serial_number,purchase_date,status
+Dell Laptop,DL-001,Laptop,15-inch business laptop,SN1001,2023-01-15,available
+HP Monitor,HP-002,Monitor,24-inch FHD monitor,SN2002,2023-02-10,available
+Logitech Mouse,LG-003,Peripheral,Wireless mouse,SN3003,2023-03-05,available
+Apple MacBook,AP-004,Laptop,13-inch MacBook Pro,SN4004,2023-04-12,assigned
+Lenovo ThinkPad,LN-005,Laptop,14-inch ThinkPad,SN5005,2023-05-20,available
+Samsung SSD,SS-006,Storage,1TB SSD,SN6006,2023-06-18,maintenance
+Canon Printer,CN-007,Printer,All-in-one printer,SN7007,2023-07-22,available
+Dell Keyboard,DK-008,Peripheral,Mechanical keyboard,SN8008,2023-08-30,available
+Cisco Router,CS-009,Networking,Enterprise router,SN9009,2023-09-14,available
+Acer Projector,AC-010,Projector,HD projector,SN1010,2023-10-01,available
